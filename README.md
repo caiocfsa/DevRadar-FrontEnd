@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
+    <img alt="DevRadar - Front-End Web" title="#delicinha" src="https://github.com/caiocfsa/DevRadar-FrontEnd/blob/master/devradar.svg" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -55,4 +55,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com os aprendizados da Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com os aprendizados da Rocketseat :wave: 
