@@ -18,7 +18,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
   </a>
 
-  <img alt="License" src="https://github.com/caiocfsa/DevRadar-FrontEnd/blob/master/devradar.png">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="https://i.imgur.com/ih9amVj.png" width="100%">
+  <img alt="Frontend" src="https://github.com/caiocfsa/DevRadar-FrontEnd/blob/master/devradar.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
